@@ -1,4 +1,9 @@
 package com.soft1841.util;
+/**
+ * 时间差的计算
+ * @author liuleilei
+ * 2019.3.18
+ */
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
